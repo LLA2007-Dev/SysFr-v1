@@ -61,7 +61,7 @@ void calcularVv()
 
     //  TABLA DENTRO DE LA CABECERA
     printf("%4d",numeroCuotas);
-    printf("%16.2lf",Vv);
+    printf("%20.2lf",Vv);
     
     
 
